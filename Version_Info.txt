@@ -59,7 +59,7 @@ v6.6 Credit Edit: updated ic_now @ line 38-39 to include link to help anybody th
                     for the computer image detection program.
 
 
---v7 Updated: updated ic_now to include visual color when asking the user on what image they would like to scan.
+v7 Updated: updated ic_now to include visual color when asking the user on what image they would like to scan.
                as stated in v6 will be working to update this program even further. Did some other tests on it, requires
                a bit more tweaking so it can scan a lot more objs, can only handle a few before the program ignores the
                other objs. Will work on the following:
@@ -68,4 +68,8 @@ v6.6 Credit Edit: updated ic_now @ line 38-39 to include link to help anybody th
                *make this automated using an a.i/save it on a db. -> prob be private depending on how
                large I get this program to be
                * Will add more later
+
+
+--v7.7 Tidy Up: removed import glob from ic_now.py, will be testing with glob in the near future
+                link for more info: https://docs.python.org/3/library/glob.html
 

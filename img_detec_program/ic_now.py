@@ -1,4 +1,3 @@
-import glob
 
 try:
     from colors import *
