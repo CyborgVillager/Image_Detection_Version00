@@ -33,6 +33,8 @@ v2 Update IC_Now: Updated info IC_now, included source code, image folder to pla
                         Will have to work on finding a proper solution to upload large files that are above 100MB.
 
 
---v3 IC_Now Info: Updated ic_now.py to include colors.py & modified it to include safegaurds just in case wrong info has
+v3 IC_Now Info: Updated ic_now.py to include colors.py & modified it to include safegaurds just in case wrong info has
                     been inputed / tell the user of the info & tell them the location of where it needs to be looked @.
                     modified error prints for updated lines.
+
+--v4 Fixed README: fixed README.md info

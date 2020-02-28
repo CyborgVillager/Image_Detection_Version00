@@ -10,7 +10,7 @@ To get the program to work you need to download imageAI resnet.h5 created from O
 
 [OlafenwaMoses resnet50_coco_best_v2.0.1.h5](https://github.com/olafenwaMoses/imageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5)
 
-##**Support OlafenwaMoses by checking out his github page**
+## **Support OlafenwaMoses by checking out his github page**
 [OlafenwaMoses Github](https://github.com/OlafenwaMoses)
 
 ##
