@@ -35,7 +35,8 @@ except OSError:
 
 # Get image folder location
 path = 'images'
-# f = files
+# listing files/used to help the user see what images are on the images folder
+# link for more info: https://mkyong.com/python/python-how-to-list-all-files-in-a-directory/
 for images_folder in os.walk(path):
     for image_folder in images_folder:
         if '.jpg' in image_folder:
