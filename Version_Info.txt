@@ -20,3 +20,5 @@ v0 Continuation & README.md Update: This is a continuation of respo Python_Machi
                     respo but connects to Python_Machine_Learning and possibile other future respos depending on the
                     information/what is being done for the project at the moment.
                     link: https://github.com/CyborgVillager/Python_Machine_Learning
+
+--v1 I See Now: image detection import tensorflow & req info test -> complete, begin operation of I See Now
