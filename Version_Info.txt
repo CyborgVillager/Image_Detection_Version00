@@ -37,4 +37,9 @@ v3 IC_Now Info: Updated ic_now.py to include colors.py & modified it to include 
                     been inputed / tell the user of the info & tell them the location of where it needs to be looked @.
                     modified error prints for updated lines.
 
---v4 Fixed README: fixed README.md info
+v4 Fixed README: fixed README.md info
+
+--v5 Try/Except Custom File: User can now type in the file they want the computer to scan, and read the info
+                            afterwords the completed images will be sent to folder image_detection_complete with the format
+                            of imgname.jpg_img_complete to signify to the user the computer has finished scanning the
+                            photo for data & is ready to be seen by a human to see the image probability.
