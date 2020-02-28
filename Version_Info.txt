@@ -47,7 +47,7 @@ v5 Try/Except Custom File: User can now type in the file they want the computer 
 
 
 v6 Credit: ~ Special Thanks to Kalob Taulien for the tutorial @ skillshare
-                    link: https://www.skillshare.com/classes/Create-an-Image-Detection-App-from-Scratch-using-Machine-Learning/2083501919
+                    link: https://skl.sh/2weHk9o/2083501919
                     learned a good summary of image recog, would recommend if your planning to go deeper into ML ^_^~
 
                     Will continue to work on this image reco program, and make it a bit more in-depth to aquire more info
@@ -70,6 +70,8 @@ v7 Updated: updated ic_now to include visual color when asking the user on what 
                * Will add more later
 
 
---v7.7 Tidy Up: removed import glob from ic_now.py, will be testing with glob in the near future
+v7.7 Tidy Up: removed import glob from ic_now.py, will be testing with glob in the near future
                 link for more info: https://docs.python.org/3/library/glob.html
+
+--v7.8 Updated v6:  Updated Credit Link @ v6
 
