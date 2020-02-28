@@ -47,7 +47,7 @@ print(image_folder)
 # Aquire User input on what image they want to scan for data
 print('Key Legend: Image name.jpg or png -> Enter')
 
-image_see = input('Please type in the full name & image format you would like to scan: ')
+image_see = input(cyan + 'Please type in the full name & image format you would like to scan: ' + end)
 
 # User input turned into string
 image_aquire = str(image_see)
