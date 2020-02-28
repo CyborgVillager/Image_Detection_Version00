@@ -21,4 +21,13 @@ v0 Continuation & README.md Update: This is a continuation of respo Python_Machi
                     information/what is being done for the project at the moment.
                     link: https://github.com/CyborgVillager/Python_Machine_Learning
 
---v1 I See Now: image detection import tensorflow & req info test -> complete, begin operation of I See Now
+v1 I See Now: image detection import tensorflow & req info test -> complete, begin operation of I See Now
+
+--v2 Update IC_Now: updated info IC_now, included source code, image folder to place after images has been read/anaylz
+                        on probability of that obj being that obj.
+                        To make this program to work proprly you need to have
+                        resnet50_coco_best_v2.0.1.h5
+                        download link: https://github.com/olafenwaMoses/imageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5
+                        make sure the file resnet50_coco_best_v2.0.1.h5 is by your requirements.txt.
+
+                        Will have to work on finding a proper solution to upload large files that are above 100MB.
