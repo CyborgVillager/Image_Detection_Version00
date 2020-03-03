@@ -75,4 +75,6 @@ v7.7 Tidy Up: removed import glob from ic_now.py, will be testing with glob in t
 
 v7.8 Updated v6:  Updated Credit Link @ v6
 
---v8 License Added: Added License
+v8 License Added: Added License
+
+--v9 .git ignore: added git ignore for resnet50_coco_best_v2.0.1.h5 due to large file size
