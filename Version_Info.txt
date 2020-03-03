@@ -73,5 +73,6 @@ v7 Updated: updated ic_now to include visual color when asking the user on what 
 v7.7 Tidy Up: removed import glob from ic_now.py, will be testing with glob in the near future
                 link for more info: https://docs.python.org/3/library/glob.html
 
---v7.8 Updated v6:  Updated Credit Link @ v6
+v7.8 Updated v6:  Updated Credit Link @ v6
 
+--v8 License Added: Added License
